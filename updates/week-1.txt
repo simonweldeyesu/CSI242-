@@ -1,0 +1,4 @@
+Passcodes: Wizzle
+Participation: I was asking or answering a question in the comments section under a video. 
+Self Directed Learning:  I started the Codeccademy js class and completed the Introduction to Javascript.
+Project: I got a bare bones website with just my name on it published on github pages. 
