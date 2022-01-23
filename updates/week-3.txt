@@ -1,0 +1,4 @@
+Passcodes: Double-edged and Kitten.
+Participation: This week's Participation was that I had my camera on when zooming in, and asked questions as well answering questions in the comments section under a video chat. 
+Self Directed Learning: So far I finished Introduction to Javascript, Variables, Conditionals, and almost done with Functions on CodeCademy. 
+Project: I started the Calculator project and have the basic buttons displayed like the numbers 0-9. 
