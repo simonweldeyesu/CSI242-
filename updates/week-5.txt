@@ -2,3 +2,4 @@ Passcodes: Chariot and Notebook.
 Participation: This week's Participation was that I had my camera on when zooming in, and asked questions as well answering questions in the comments section under a video chat. 
 Self Directed Learning: I finished the required CodeAcademy. 
 project: I am done coding the calculator. 
+project: I am done coding the calculator.
